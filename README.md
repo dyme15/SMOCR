@@ -1,5 +1,5 @@
 # 📌 SMOCR - Surat Masuk OCR Organizer
-**Developer: Dodyk Fahlome**
+**Developer**: Dodyk Fahlome
 
 ---
 
