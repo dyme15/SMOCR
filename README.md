@@ -9,7 +9,7 @@ Fitur utamanya:
 - OCR otomatis dari file PDF / gambar menggunakan **Tesseract**.
 - Deteksi metadata surat (tanggal, bulan, tahun, jenis surat, asal surat, nomor, dan hal).
 - Struktur folder otomatis sesuai tahun → bulan → tanggal → jenis surat.
-- Rename file surat dengan format konsisten.
+- Rename file surat dengan format konsisten menggunakan poppler.
 - Validasi input (ukuran file, karakter terlarang, tanggal valid, dll).
 - Antarmuka sederhana dengan GUI Tkinter.
 
@@ -25,7 +25,7 @@ Fitur utamanya:
 4. **Validasi**  
    Cek ukuran file, tanggal, karakter terlarang.  
 5. **Struktur Folder Otomatis**  
-   Dibuat sesuai format:
+   Dibuat sesuai format: D:\SURAT MASUK <TAHUN><Nomor. BULAN><Tanggal BULAN_SUFFIX>\SURAT MASUK <Jenis Surat>
 6. **Rename File**  
    Format: <ASAL_SURAT> - <NOMOR_SURAT>.<JENIS_SURAT> <HAL>.pdf
 7. **Pindah File**  
