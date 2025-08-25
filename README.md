@@ -4,14 +4,14 @@
 ---
 
 ## 📖 Deskripsi
-SMOCR adalah aplikasi desktop berbasis **Python + Tkinter** untuk membantu mengelola arsip surat masuk.  
+**SMOCR** adalah aplikasi desktop berbasis **Python + Tkinter** untuk membantu mengelola arsip surat masuk.  
 Fitur utamanya:
 - OCR otomatis dari file PDF / gambar menggunakan **Tesseract**.
 - Deteksi metadata surat (tanggal, bulan, tahun, jenis surat, asal surat, nomor, dan hal).
 - Struktur folder otomatis sesuai tahun → bulan → tanggal → jenis surat.
-- Rename file surat dengan format konsisten menggunakan poppler.
+- Rename file surat dengan format konsisten menggunakan **Poppler**.
 - Validasi input (ukuran file, karakter terlarang, tanggal valid, dll).
-- Antarmuka sederhana dengan GUI Tkinter.
+- Antarmuka sederhana dengan **GUI Tkinter**.
 
 ---
 
