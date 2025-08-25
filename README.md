@@ -1,5 +1,5 @@
 # 📌 SMOCR - Surat Masuk OCR Organizer
-**Lisensi: (C) Dodyk Fahlome 2025**
+**Developer: Dodyk Fahlome**
 
 ---
 
